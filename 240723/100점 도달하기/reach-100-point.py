@@ -13,3 +13,4 @@ for i in range(n, 101):
         print('D', end=' ')
     else:
         print('F', end=' ')
+        n += 1
